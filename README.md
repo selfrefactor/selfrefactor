@@ -2,7 +2,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=selfrefactor)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=selfrefactor&show_icons=true)  
+<!--- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=selfrefactor&show_icons=true)   ---> 
 
 ![Metrics](https://metrics.lecoq.io/selfrefactor)
 
