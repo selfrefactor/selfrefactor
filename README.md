@@ -3,9 +3,9 @@
 <!--- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=selfrefactor)  ---> 
 
 
-<!---  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=selfrefactor&show_icons=true)  ---> 
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=selfrefactor&show_icons=true)  
 
-<!--- ![Metrics](https://metrics.lecoq.io/selfrefactor) ---> 
+![Metrics](https://metrics.lecoq.io/selfrefactor)
 
 [![Selfrefactor StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/967097)](https://stackoverflow.com/users/967097/dejan-toteff)
 
