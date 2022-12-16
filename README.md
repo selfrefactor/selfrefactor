@@ -12,6 +12,6 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/deyantotev/)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/selfrefactor/langs)]([https://githubtrends.io](https://www.githubtrends.io/wrapped/selfrefactor)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/selfrefactor/langs)]([[https://githubtrends.io](https://www.githubtrends.io/wrapped/selfrefactor)])
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=selfrefactor) 
