@@ -1,6 +1,10 @@
 ![My user statistics](images/userstats.svg)
-
-[![Example](https://github-stats-alpha.vercel.app/api?username=selfrefactor "selfrefactor")](https://github-stats-alpha.vercel.app/api?username=selfrefactor "selfrefactor")
+<!-- 
+Where cc = Card Color
+      tc = Text Color
+      ic = Icon Color
+      bc = Border Color -->
+[![Example](https://github-stats-alpha.vercel.app/api?username=selfrefactor "selfrefactor")](https://github-stats-alpha.vercel.app/api?username=selfrefactor&cc=000&tc=fff&ic=fff&bc=000 "selfrefactor")
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfrefactor)](https://github.com/selfrefactor/github-profile-trophy)
 
