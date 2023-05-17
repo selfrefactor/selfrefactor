@@ -1,3 +1,4 @@
+![My user statistics](images/userstats.svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfrefactor)](https://github.com/selfrefactor/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=selfrefactor&show_icons=true)  
