@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfrefactor)](https://github.com/selfrefactor/github-profile-trophy)
 
-# style options - https://raw.githubusercontent.com/catppuccin/github-readme-stats/main/README.md
+<!-- style options - https://raw.githubusercontent.com/catppuccin/github-readme-stats/main/README.md -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=selfrefactor&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)  
 
 ![Metrics](https://metrics.lecoq.io/selfrefactor)
