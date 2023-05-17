@@ -1,6 +1,6 @@
 ![My user statistics](images/userstats.svg)
 <!-- https://github.com/tuhinpal/readme-stats-github/blob/main/README.md -->
-[![Example](https://github-stats-alpha.vercel.app/api?username=selfrefactor&cc=050&tc=fcf&ic=fcf&bc=050 "selfrefactor")](https://github-stats-alpha.vercel.app/api?username=selfrefactor "selfrefactor")
+[![Example](https://github-stats-alpha.vercel.app/api?username=selfrefactor&cc=010&tc=fff&ic=fff&bc=010 "selfrefactor")](https://github-stats-alpha.vercel.app/api?username=selfrefactor "selfrefactor")
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfrefactor)](https://github.com/selfrefactor/github-profile-trophy)
 
