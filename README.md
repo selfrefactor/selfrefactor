@@ -1,5 +1,8 @@
 ![My user statistics](images/userstats.svg)
 
+[![Example](https://github-stats-alpha.vercel.app/api?username=selfrefactor "selfrefactor")](https://github-stats-alpha.vercel.app/api?username=selfrefactor "selfrefactor")
+
+https://github-stats-alpha.vercel.app/api?username={your-github-username}
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfrefactor)](https://github.com/selfrefactor/github-profile-trophy)
 
 <!-- style options - https://raw.githubusercontent.com/catppuccin/github-readme-stats/main/README.md -->
