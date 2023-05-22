@@ -27,7 +27,7 @@
 
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/selfrefactor/langs)
 ![GitHub Trends month](https://api.githubtrends.io/user/svg/selfrefactor/repos?time_range=one_month&theme=bright_lights)
-![GitHub Trends](https://api.githubtrends.io/user/svg/selfrefactor/repos&theme=bright_lights)
+![GitHub Trends year](https://api.githubtrends.io/user/svg/selfrefactor/repos?time_range=one_year&theme=bright_lights)
 
 [https://metrics.lecoq.io/selfrefactor](https://www.githubtrends.io/wrapped/selfrefactor)
 
