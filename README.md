@@ -1,3 +1,4 @@
+<div align="center">
 ![My user statistics](images/userstats.svg)
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
@@ -13,15 +14,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfrefactor)](https://github.com/selfrefactor/github-profile-trophy)
 
 <!-- style options - https://raw.githubusercontent.com/catppuccin/github-readme-stats/main/README.md -->
-<div align="center">
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selfrefactor&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/selfrefactor)
 
-</div>
-
-
 ![Metrics](https://metrics.lecoq.io/selfrefactor)
-
 
 <p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=explosion-scratch&" alt="explosion-scratch" /></p>
 <p align=center><img align="center" src="https://raw.githubusercontent.com/Explosion-Scratch/Explosion-scratch/a407529eda6cf7c81265dae00a6eab19d1597632/github-contribution-grid-snake.svg" /></p>
@@ -37,3 +33,4 @@
 [https://metrics.lecoq.io/selfrefactor](https://www.githubtrends.io/wrapped/selfrefactor)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=selfrefactor) 
+</div>
