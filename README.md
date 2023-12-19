@@ -20,6 +20,11 @@
 
 ![Metrics](https://metrics.lecoq.io/selfrefactor)
 
+<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/selfrefactor/selfrefactor/main/github-metrics.svg">
+
 <p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=explosion-scratch&" alt="explosion-scratch" /></p>
 
 [![Selfrefactor StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/967097)](https://stackoverflow.com/users/967097/dejan-toteff)
