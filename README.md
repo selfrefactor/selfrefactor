@@ -23,7 +23,7 @@
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/selfrefactor/selfrefactor/main/github-metrics.svg">
+<img src="https://raw.githubusercontent.com/selfrefactor/selfrefactor/master/github-metrics.svg">
 
 <p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=explosion-scratch&" alt="explosion-scratch" /></p>
 
