@@ -14,9 +14,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfrefactor)](https://github.com/selfrefactor/github-profile-trophy)
 
-[![HitCount](https://hits.dwyl.com/selfrefactor/rambda.svg?style=flat-square)](http://hits.dwyl.com/selfrefactor/rambda)
+<p align="center">
+
+  [![HitCount](https://hits.dwyl.com/selfrefactor/rambda.svg?style=flat-square)](http://hits.dwyl.com/selfrefactor/rambda)
 [![HitCount](https://hits.dwyl.com/selfrefactor/rambdax.svg?style=flat-square)](http://hits.dwyl.com/selfrefactor/rambdax)
 ![Repobeats](https://repobeats.axiom.co/api/embed/6f9f2aa57a6f1ed67156cea07e8cff86a94ef7b8.svg "Repobeats analytics image")
+
+</p>
 
 <!-- style options - https://raw.githubusercontent.com/catppuccin/github-readme-stats/main/README.md -->
   
@@ -28,7 +32,7 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/selfrefactor/selfrefactor/master/github-metrics.svg">
-
+</p>
 <p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=explosion-scratch&" alt="explosion-scratch" /></p>
 
 [![Selfrefactor StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/967097)](https://stackoverflow.com/users/967097/dejan-toteff)
