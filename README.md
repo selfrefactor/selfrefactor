@@ -14,6 +14,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfrefactor)](https://github.com/selfrefactor/github-profile-trophy)
 
+[![HitCount](https://hits.dwyl.com/selfrefactor/rambda.svg?style=flat-square)](http://hits.dwyl.com/selfrefactor/rambda)
+[![HitCount](https://hits.dwyl.com/selfrefactor/rambdax.svg?style=flat-square)](http://hits.dwyl.com/selfrefactor/rambdax)
+![Repobeats](https://repobeats.axiom.co/api/embed/6f9f2aa57a6f1ed67156cea07e8cff86a94ef7b8.svg "Repobeats analytics image")
+
 <!-- style options - https://raw.githubusercontent.com/catppuccin/github-readme-stats/main/README.md -->
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selfrefactor&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/selfrefactor)
