@@ -2,6 +2,8 @@
   
 ![My user statistics](images/userstats.svg)
 
+<!--START_SECTION:activity-->
+
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selfrefactor&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=selfrefactor&theme=darcula&utcOffset=8) 
