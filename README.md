@@ -34,8 +34,8 @@
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selfrefactor&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/selfrefactor)
 
-# Not working
-# ![Metrics](https://metrics.lecoq.io/selfrefactor)
+<!-- Not working
+![Metrics](https://metrics.lecoq.io/selfrefactor) -->
 
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 
