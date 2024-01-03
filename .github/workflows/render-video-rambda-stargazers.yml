@@ -17,7 +17,7 @@ on:
       duration:
         description: "Duration (seconds)"
         required: false
-        default: "15"
+        default: "30"
 name: Render video
 jobs:
   render:
