@@ -1,4 +1,4 @@
-name: Metrics
+name: Metrics(lowlighter)
 on:
   # Reference: https://github.com/lowlighter/metrics 
   # Schedule updates (every 2 days)
