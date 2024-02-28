@@ -1,5 +1,7 @@
 <div align="center">
   
+![](https://komarev.com/ghpvc/?username=selfrefactor)
+
 ![My user statistics](images/userstats.svg)
 
 <!--START_SECTION:activity-->
