@@ -3,7 +3,7 @@
 ![My user statistics](images/userstats.svg)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#725](https://github.com/selfrefactor/rambda/pull/725#issuecomment-2003472341) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
+1. 🗣 Commented on [#728](https://github.com/selfrefactor/rambda/issues/728#issuecomment-2023024907) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
 <!--END_SECTION:activity-->
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
