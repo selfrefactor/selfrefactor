@@ -3,7 +3,7 @@
 ![My user statistics](images/userstats.svg)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v11.1.0](https://github.com/selfrefactor/rambdax/releases/tag/v11.1.0) in [selfrefactor/rambdax](https://github.com/selfrefactor/rambdax)
+1. 🗣 Commented on [#730](https://github.com/selfrefactor/rambda/issues/730#issuecomment-2069250288) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
 <!--END_SECTION:activity-->
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
