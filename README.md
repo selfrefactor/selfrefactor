@@ -3,7 +3,7 @@
 ![My user statistics](images/userstats.svg)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#99](https://github.com/selfrefactor/rambdax/pull/99) in [selfrefactor/rambdax](https://github.com/selfrefactor/rambdax)
+1. 🗣 Commented on [#730](https://github.com/selfrefactor/rambda/issues/730#issuecomment-2097475993) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
 <!--END_SECTION:activity-->
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
