@@ -2,6 +2,8 @@
 
 ![My user statistics](images/userstats.svg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=selfrefactor)](https://github.com/selfrefactor/github-profile-trophy)
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#736](https://github.com/selfrefactor/rambda/issues/736#issuecomment-2211746587) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
 <!--END_SECTION:activity-->
