@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfrefactor)](https://github.com/selfrefactor/github-profile-trophy)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#736](https://github.com/selfrefactor/rambda/issues/736#issuecomment-2212472650) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
+1. 🗣 Commented on [#100](https://github.com/selfrefactor/rambdax/pull/100#issuecomment-2239899798) in [selfrefactor/rambdax](https://github.com/selfrefactor/rambdax)
 <!--END_SECTION:activity-->
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
