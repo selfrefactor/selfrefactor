@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfrefactor)](https://github.com/selfrefactor/github-profile-trophy)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/selfrefactor/rambdax/pull/100#issuecomment-2307582360) in [selfrefactor/rambdax](https://github.com/selfrefactor/rambdax)
+1. 🚀 Published release [v11.2.6](https://github.com/selfrefactor/rambdax/releases/tag/11.2.6) in [selfrefactor/rambdax](https://github.com/selfrefactor/rambdax)
 <!--END_SECTION:activity-->
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
