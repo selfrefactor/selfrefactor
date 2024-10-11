@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfrefactor)](https://github.com/selfrefactor/github-profile-trophy)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#747](https://github.com/selfrefactor/rambda/issues/747#issuecomment-2389712386) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
+1. 🚀 Published release [With lint command](https://github.com/selfrefactor/niketa-theme-dark/releases/tag/1.0.0) in [selfrefactor/niketa-theme-dark](https://github.com/selfrefactor/niketa-theme-dark)
 <!--END_SECTION:activity-->
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
