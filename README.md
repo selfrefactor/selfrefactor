@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfrefactor)](https://github.com/selfrefactor/github-profile-trophy)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#755](https://github.com/selfrefactor/rambda/pull/755) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
+1. 💪 Opened PR [#756](https://github.com/selfrefactor/rambda/pull/756) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
 <!--END_SECTION:activity-->
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
