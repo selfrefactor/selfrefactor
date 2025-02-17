@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfrefactor)](https://github.com/selfrefactor/github-profile-trophy)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3411](https://github.com/EclipseFdn/open-vsx.org/issues/3411) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+1. 🗣 Commented on [#3989](https://github.com/colinhacks/zod/issues/3989#issuecomment-2661373208) in [colinhacks/zod](https://github.com/colinhacks/zod)
 <!--END_SECTION:activity-->
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
