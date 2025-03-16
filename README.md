@@ -24,22 +24,8 @@
 
 ![Repobeats](https://repobeats.axiom.co/api/embed/6f9f2aa57a6f1ed67156cea07e8cff86a94ef7b8.svg "Repobeats analytics image")
 </p>
-
-<p align="center">
-
-  [![HitCount](https://hits.dwyl.com/selfrefactor/rambda.svg?style=flat-square)](http://hits.dwyl.com/selfrefactor/rambda)
-[![HitCount](https://hits.dwyl.com/selfrefactor/rambdax.svg?style=flat-square)](http://hits.dwyl.com/selfrefactor/rambdax)
-
-</p>
-
-<!-- style options - https://raw.githubusercontent.com/catppuccin/github-readme-stats/main/README.md -->
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selfrefactor&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/selfrefactor)
-
-<!-- Not working
-![Metrics](https://metrics.lecoq.io/selfrefactor) -->
-
-<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/selfrefactor/selfrefactor/master/github-metrics.svg">
@@ -48,7 +34,6 @@
 
 [![Selfrefactor StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/967097)](https://stackoverflow.com/users/967097/dejan-toteff)
 
-<!-- [https://metrics.lecoq.io/selfrefactor](https://www.githubtrends.io/wrapped/selfrefactor)   -->
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/selfrefactor/langs)
 ![GitHub Trends month](https://api.githubtrends.io/user/svg/selfrefactor/repos?time_range=one_month&theme=bright_lights)
 ![GitHub Trends year](https://api.githubtrends.io/user/svg/selfrefactor/repos?time_range=one_year&theme=bright_lights)
