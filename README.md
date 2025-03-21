@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfrefactor)](https://github.com/selfrefactor/github-profile-trophy)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [10.0.0-alpha.0](https://github.com/selfrefactor/rambda/releases/tag/10.0.0-alpha.0) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
+1. 🗣 Commented on [#763](https://github.com/selfrefactor/rambda/pull/763#issuecomment-2739469734) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
 <!--END_SECTION:activity-->
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
