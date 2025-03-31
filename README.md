@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=selfrefactor)](https://github.com/selfrefactor/github-profile-trophy)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [10.0.0-beta.1](https://github.com/selfrefactor/rambda/releases/tag/v10.0.0-beta.1) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
+1. 🎉 Merged PR [#761](https://github.com/selfrefactor/rambda/pull/761) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
 <!--END_SECTION:activity-->
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
