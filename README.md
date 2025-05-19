@@ -31,7 +31,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#771](https://github.com/selfrefactor/rambda/issues/771#issuecomment-2885954194) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
+1. 💪 Opened PR [#774](https://github.com/selfrefactor/rambda/pull/774) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
 <!--END_SECTION:activity-->
 
   
