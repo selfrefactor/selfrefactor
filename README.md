@@ -4,6 +4,8 @@
 ![My user statistics](images/userstats.svg)
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
+![selfrefactor github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=selfrefactor)
+![selfrefactor github-trophies](https://stats.dooboo.io/api/github-trophies?login=selfrefactor)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selfrefactor&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=selfrefactor&theme=darcula&utcOffset=8) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=selfrefactor&theme=darcula)
