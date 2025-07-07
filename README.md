@@ -33,7 +33,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#774](https://github.com/selfrefactor/rambda/pull/774) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
+1. 🎉 Merged PR [#778](https://github.com/selfrefactor/rambda/pull/778) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
 <!--END_SECTION:activity-->
 
   
