@@ -21,4 +21,5 @@
 <img src="https://raw.githubusercontent.com/selfrefactor/selfrefactor/master/github-metrics.svg">
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=explosion-scratch&" alt="explosion-scratch" /></p>
+<p><img align="center" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/967097" alt="explosion-scratch" /></p>
 </div>
