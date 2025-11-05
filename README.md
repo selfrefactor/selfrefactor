@@ -33,7 +33,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#794](https://github.com/selfrefactor/rambda/issues/794) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
+1. 🗣 Commented on [#797](https://github.com/selfrefactor/rambda/issues/797#issuecomment-3487764645) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
 <!--END_SECTION:activity-->
 
   
