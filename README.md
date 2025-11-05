@@ -22,4 +22,9 @@
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=explosion-scratch&" alt="explosion-scratch" /></p>
 <p><img align="center" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/967097" alt="explosion-scratch" /></p>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/deyantotev/)
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#797](https://github.com/selfrefactor/rambda/issues/797#issuecomment-3487764645) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
+<!--END_SECTION:activity-->
 </div>
