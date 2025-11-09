@@ -27,6 +27,6 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#797](https://github.com/selfrefactor/rambda/issues/797#issuecomment-3493316538) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
+1. ❗ Opened issue [#48](https://github.com/imbhargav5/nextbase-nextjs-supabase-starter/issues/48) in [imbhargav5/nextbase-nextjs-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs-supabase-starter)
 <!--END_SECTION:activity-->
 </div>
