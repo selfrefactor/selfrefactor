@@ -1,6 +1,8 @@
 <div align="left">
-
+  
 ![My user statistics](images/userstats.svg)
+
+![user statistic](profile-3d-contrib/profile-green-animate.svg)
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
 ![selfrefactor github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=selfrefactor)
