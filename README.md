@@ -29,6 +29,6 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#798](https://github.com/selfrefactor/rambda/issues/798) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
+1. 🔒 Closed issue [#797](https://github.com/selfrefactor/rambda/issues/797) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
 <!--END_SECTION:activity-->
 </div>
