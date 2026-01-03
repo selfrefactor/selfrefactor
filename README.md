@@ -29,6 +29,6 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#801](undefined) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
+1. 🎉 Merged PR [#801](https://github.com/selfrefactor/rambda/pull/801) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
 <!--END_SECTION:activity-->
 </div>
