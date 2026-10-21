@@ -29,6 +29,6 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#82](https://github.com/lappemic/awesome-ai-built-games/issues/82) in [lappemic/awesome-ai-built-games](https://github.com/lappemic/awesome-ai-built-games)
+1. 🗣 Commented on [#82](https://github.com/lappemic/awesome-ai-built-games/issues/82#issuecomment-6261733167) in [lappemic/awesome-ai-built-games](https://github.com/lappemic/awesome-ai-built-games)
 <!--END_SECTION:activity-->
 </div>
