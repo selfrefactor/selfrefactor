@@ -29,6 +29,6 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#807](https://github.com/selfrefactor/rambda/pull/807) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
+1. 🗣 Commented on [#809](https://github.com/selfrefactor/rambda/pull/809#issuecomment-6720230790) in [selfrefactor/rambda](https://github.com/selfrefactor/rambda)
 <!--END_SECTION:activity-->
 </div>
